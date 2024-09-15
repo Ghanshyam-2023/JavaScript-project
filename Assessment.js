@@ -34,7 +34,7 @@ function listNFTs() {
         console.log("Name: " + NFTs[i].name);
         console.log("Rarity: " + NFTs[i].rarity);
         console.log("Creator: " + NFTs[i].creator);
-        console.log("--------------------");
+        console.log("\n");
     }
 }
 
